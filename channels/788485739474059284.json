@@ -1,0 +1,1883 @@
+[
+    {
+        "created_at": 1608077261.371,
+        "webhook_id": "None",
+        "content": "h!change green-blue",
+        "attachments_count": 0,
+        "id": "788557930676486174",
+        "author_id": "764225265298833418",
+        "pinned": "false",
+        "embeds": []
+    },
+    {
+        "id": "788557932840484875",
+        "author_id": "600436180864991233",
+        "created_at": 1608077261.887,
+        "content": "Invalid input",
+        "webhook_id": "None",
+        "embeds": [],
+        "pinned": "false",
+        "attachments_count": 0
+    },
+    {
+        "id": "788557944534990858",
+        "attachments_count": 0,
+        "embeds": [],
+        "content": "o ok",
+        "webhook_id": "None",
+        "pinned": "false",
+        "created_at": 1608077264.675,
+        "author_id": "764225265298833418"
+    },
+    {
+        "embeds": [],
+        "webhook_id": "None",
+        "id": "788567579756068874",
+        "pinned": "false",
+        "attachments_count": 0,
+        "created_at": 1608079561.891,
+        "author_id": "764225265298833418",
+        "content": "h!change color"
+    },
+    {
+        "webhook_id": "None",
+        "author_id": "600436180864991233",
+        "content": "Invalid input",
+        "created_at": 1608079562.007,
+        "embeds": [],
+        "attachments_count": 0,
+        "pinned": "false",
+        "id": "788567580243263488"
+    },
+    {
+        "webhook_id": "None",
+        "id": "788567597343571998",
+        "attachments_count": 0,
+        "content": "h!change",
+        "created_at": 1608079566.084,
+        "embeds": [],
+        "author_id": "764225265298833418",
+        "pinned": "false"
+    },
+    {
+        "created_at": 1608079566.132,
+        "pinned": "false",
+        "attachments_count": 0,
+        "id": "788567597545291847",
+        "author_id": "600436180864991233",
+        "webhook_id": "None",
+        "content": "",
+        "embeds": [
+            {
+                "color": 1755514,
+                "description": "[Please Upvote Daily](https://discordbots.org/bot/600436180864991233/vote)",
+                "image": {
+                    "height": 50,
+                    "url": "https://dummyimage.com/150x50/1ac97a/000000&text=1ac97a",
+                    "width": 150,
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/0CUDZXRQ1c5vFWZdtXe1i8buH88w3vFOwXj_cBa-Tt0/https/dummyimage.com/150x50/1ac97a/000000%26text%3D1ac97a"
+                },
+                "type": "rich",
+                "footer": {
+                    "text": "Changed"
+                }
+            }
+        ]
+    },
+    {
+        "created_at": 1608079601.238,
+        "id": "788567744789610496",
+        "pinned": "false",
+        "webhook_id": "None",
+        "author_id": "764225265298833418",
+        "content": "sure",
+        "embeds": [],
+        "attachments_count": 0
+    },
+    {
+        "embeds": [],
+        "content": "ew",
+        "author_id": "764225265298833418",
+        "attachments_count": 0,
+        "webhook_id": "None",
+        "id": "788567757762592819",
+        "pinned": "false",
+        "created_at": 1608079604.331
+    },
+    {
+        "author_id": "579673965484834825",
+        "attachments_count": 0,
+        "pinned": "false",
+        "webhook_id": "None",
+        "id": "788741229151387648",
+        "created_at": 1608120963.133,
+        "embeds": [],
+        "content": "h!change"
+    },
+    {
+        "content": "Canceled",
+        "attachments_count": 0,
+        "webhook_id": "None",
+        "pinned": "false",
+        "embeds": [],
+        "author_id": "600436180864991233",
+        "id": "788741229626130462",
+        "created_at": 1608120963.246
+    },
+    {
+        "attachments_count": 0,
+        "created_at": 1608120971.825,
+        "content": "h!change",
+        "id": "788741265608146974",
+        "pinned": "false",
+        "webhook_id": "None",
+        "author_id": "579673965484834825",
+        "embeds": []
+    },
+    {
+        "pinned": "false",
+        "id": "788741266137022504",
+        "webhook_id": "None",
+        "author_id": "600436180864991233",
+        "created_at": 1608120971.951,
+        "embeds": [
+            {
+                "image": {
+                    "width": 150,
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/pXv94oeACKo2SEFFr5Cali-quEzii1ZwhDRh6IwNNV4/https/dummyimage.com/150x50/69ea98/000000%26text%3D69ea98",
+                    "height": 50,
+                    "url": "https://dummyimage.com/150x50/69ea98/000000&text=69ea98"
+                },
+                "color": 6941336,
+                "type": "rich",
+                "description": "[Please Upvote Daily](https://discordbots.org/bot/600436180864991233/vote)",
+                "footer": {
+                    "text": "Changed"
+                }
+            }
+        ],
+        "content": "",
+        "attachments_count": 0
+    },
+    {
+        "embeds": [],
+        "author_id": "579673965484834825",
+        "created_at": 1608120979.337,
+        "id": "788741297116676106",
+        "webhook_id": "None",
+        "content": "fine ass hole",
+        "attachments_count": 0,
+        "pinned": "false"
+    },
+    {
+        "id": "788741619846873120",
+        "content": "h!change FFD700",
+        "embeds": [],
+        "webhook_id": "None",
+        "author_id": "579673965484834825",
+        "attachments_count": 0,
+        "pinned": "false",
+        "created_at": 1608121056.282
+    },
+    {
+        "id": "788741620769619988",
+        "created_at": 1608121056.502,
+        "embeds": [
+            {
+                "type": "rich",
+                "footer": {
+                    "text": "Changed"
+                },
+                "color": 16766720,
+                "image": {
+                    "url": "https://dummyimage.com/150x50/ffd700/000000&text=ffd700",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/OVTvHPV-SM2YnJAd6F5lUsyBKYj5fKKOyq3O8z8vP6U/https/dummyimage.com/150x50/ffd700/000000%26text%3Dffd700",
+                    "height": 50,
+                    "width": 150
+                },
+                "description": "[Please Upvote Daily](https://discordbots.org/bot/600436180864991233/vote)"
+            }
+        ],
+        "attachments_count": 0,
+        "content": "",
+        "author_id": "600436180864991233",
+        "webhook_id": "None",
+        "pinned": "false"
+    },
+    {
+        "author_id": "764225265298833418",
+        "attachments_count": 0,
+        "content": "h!change",
+        "webhook_id": "None",
+        "pinned": "false",
+        "embeds": [],
+        "created_at": 1608125109.577,
+        "id": "788758620598435901"
+    },
+    {
+        "created_at": 1608125109.773,
+        "author_id": "600436180864991233",
+        "id": "788758621419733003",
+        "content": "",
+        "webhook_id": "None",
+        "attachments_count": 0,
+        "pinned": "false",
+        "embeds": [
+            {
+                "color": 6748638,
+                "type": "rich",
+                "description": "[Please Upvote Daily](https://discordbots.org/bot/600436180864991233/vote)",
+                "footer": {
+                    "text": "Changed"
+                },
+                "image": {
+                    "width": 150,
+                    "height": 50,
+                    "url": "https://dummyimage.com/150x50/66f9de/000000&text=66f9de",
+                    "proxy_url": "https://images-ext-2.discordapp.net/external/BeCPiPpRDl2J-idSHmGUWUX_ay1ujgn9UxqyLVlAG1M/https/dummyimage.com/150x50/66f9de/000000%26text%3D66f9de"
+                }
+            }
+        ]
+    },
+    {
+        "embeds": [],
+        "author_id": "600436180864991233",
+        "id": "788763917793886258",
+        "attachments_count": 0,
+        "pinned": "false",
+        "content": "Canceled",
+        "created_at": 1608126372.527,
+        "webhook_id": "None"
+    },
+    {
+        "content": "h!change cyan",
+        "webhook_id": "None",
+        "author_id": "481211598459895819",
+        "id": "788774031032844298",
+        "attachments_count": 0,
+        "created_at": 1608128783.711,
+        "embeds": [],
+        "pinned": "false"
+    },
+    {
+        "created_at": 1608128784.102,
+        "embeds": [
+            {
+                "image": {
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/kOVQJj6FUqDjM0jXTpGWTqPf4Q3lS07B1Iwr8g41xIU/https/dummyimage.com/150x50/00ffff/000000%26text%3D00ffff",
+                    "url": "https://dummyimage.com/150x50/00ffff/000000&text=00ffff",
+                    "height": 50,
+                    "width": 150
+                },
+                "type": "rich",
+                "color": 65535,
+                "footer": {
+                    "text": "Changed"
+                },
+                "description": "[Please Upvote Daily](https://discordbots.org/bot/600436180864991233/vote)"
+            }
+        ],
+        "id": "788774032673079306",
+        "author_id": "600436180864991233",
+        "attachments_count": 0,
+        "pinned": "false",
+        "webhook_id": "None",
+        "content": ""
+    },
+    {
+        "created_at": 1608136868.757,
+        "author_id": "446964089885818891",
+        "embeds": [],
+        "attachments_count": 0,
+        "pinned": "false",
+        "webhook_id": "None",
+        "id": "788807942174015488",
+        "content": "h!change"
+    },
+    {
+        "content": "Canceled",
+        "embeds": [],
+        "pinned": "false",
+        "webhook_id": "None",
+        "author_id": "600436180864991233",
+        "created_at": 1608136868.878,
+        "attachments_count": 0,
+        "id": "788807942681657405"
+    },
+    {
+        "id": "788808002425323522",
+        "author_id": "446964089885818891",
+        "created_at": 1608136883.122,
+        "webhook_id": "None",
+        "embeds": [],
+        "attachments_count": 0,
+        "content": "h!change",
+        "pinned": "false"
+    },
+    {
+        "author_id": "600436180864991233",
+        "id": "788808002832040027",
+        "webhook_id": "None",
+        "content": "Canceled",
+        "embeds": [],
+        "pinned": "false",
+        "attachments_count": 0,
+        "created_at": 1608136883.219
+    },
+    {
+        "webhook_id": "None",
+        "embeds": [],
+        "pinned": "false",
+        "content": "h!change",
+        "attachments_count": 0,
+        "created_at": 1608136891.571,
+        "id": "788808037863260180",
+        "author_id": "446964089885818891"
+    },
+    {
+        "attachments_count": 0,
+        "webhook_id": "None",
+        "created_at": 1608136891.662,
+        "content": "Canceled",
+        "id": "788808038245072938",
+        "embeds": [],
+        "pinned": "false",
+        "author_id": "600436180864991233"
+    },
+    {
+        "attachments_count": 0,
+        "pinned": "false",
+        "webhook_id": "None",
+        "embeds": [],
+        "created_at": 1608136901.002,
+        "author_id": "446964089885818891",
+        "content": "h!change",
+        "id": "788808077418954772"
+    },
+    {
+        "author_id": "600436180864991233",
+        "created_at": 1608136901.136,
+        "webhook_id": "None",
+        "pinned": "false",
+        "content": "Canceled",
+        "embeds": [],
+        "attachments_count": 0,
+        "id": "788808077980860417"
+    },
+    {
+        "content": "h!change",
+        "id": "788808085372141589",
+        "webhook_id": "None",
+        "attachments_count": 0,
+        "created_at": 1608136902.898,
+        "author_id": "446964089885818891",
+        "pinned": "false",
+        "embeds": []
+    },
+    {
+        "author_id": "600436180864991233",
+        "content": "Canceled",
+        "pinned": "false",
+        "embeds": [],
+        "created_at": 1608136903.02,
+        "id": "788808085883715625",
+        "webhook_id": "None",
+        "attachments_count": 0
+    },
+    {
+        "created_at": 1608136905.752,
+        "embeds": [],
+        "content": "h!change",
+        "attachments_count": 0,
+        "webhook_id": "None",
+        "pinned": "false",
+        "id": "788808097341898815",
+        "author_id": "446964089885818891"
+    },
+    {
+        "embeds": [],
+        "author_id": "600436180864991233",
+        "id": "788808098554970122",
+        "webhook_id": "None",
+        "attachments_count": 0,
+        "pinned": "false",
+        "created_at": 1608136906.041,
+        "content": "Canceled"
+    },
+    {
+        "content": "h!change",
+        "id": "788808107576655922",
+        "attachments_count": 0,
+        "webhook_id": "None",
+        "pinned": "false",
+        "embeds": [],
+        "created_at": 1608136908.192,
+        "author_id": "446964089885818891"
+    },
+    {
+        "webhook_id": "None",
+        "id": "788808108058869840",
+        "author_id": "600436180864991233",
+        "content": "Canceled",
+        "pinned": "false",
+        "attachments_count": 0,
+        "embeds": [],
+        "created_at": 1608136908.307
+    },
+    {
+        "webhook_id": "None",
+        "pinned": "false",
+        "created_at": 1608136916.049,
+        "embeds": [],
+        "attachments_count": 0,
+        "id": "788808140530515998",
+        "content": "h!change",
+        "author_id": "446964089885818891"
+    },
+    {
+        "webhook_id": "None",
+        "attachments_count": 0,
+        "author_id": "600436180864991233",
+        "pinned": "false",
+        "content": "Time ran out",
+        "embeds": [],
+        "created_at": 1608136916.165,
+        "id": "788808141016924200"
+    },
+    {
+        "attachments_count": 0,
+        "embeds": [],
+        "content": "h!change",
+        "author_id": "446964089885818891",
+        "created_at": 1608136916.652,
+        "id": "788808143060598834",
+        "pinned": "false",
+        "webhook_id": "None"
+    },
+    {
+        "embeds": [],
+        "webhook_id": "None",
+        "content": "Canceled",
+        "attachments_count": 0,
+        "created_at": 1608136916.822,
+        "author_id": "600436180864991233",
+        "id": "788808143773630474",
+        "pinned": "false"
+    },
+    {
+        "embeds": [],
+        "content": "h!change",
+        "created_at": 1608136917.149,
+        "webhook_id": "None",
+        "pinned": "false",
+        "attachments_count": 0,
+        "id": "788808145144250369",
+        "author_id": "446964089885818891"
+    },
+    {
+        "embeds": [],
+        "content": "Canceled",
+        "id": "788808145857675285",
+        "created_at": 1608136917.319,
+        "webhook_id": "None",
+        "pinned": "false",
+        "attachments_count": 0,
+        "author_id": "600436180864991233"
+    },
+    {
+        "pinned": "false",
+        "webhook_id": "None",
+        "embeds": [],
+        "author_id": "446964089885818891",
+        "created_at": 1608136917.633,
+        "content": "h!change",
+        "id": "788808147175342111",
+        "attachments_count": 0
+    },
+    {
+        "embeds": [],
+        "pinned": "false",
+        "created_at": 1608136917.746,
+        "author_id": "600436180864991233",
+        "attachments_count": 0,
+        "webhook_id": "None",
+        "content": "Canceled",
+        "id": "788808147648380988"
+    },
+    {
+        "content": "h!change",
+        "webhook_id": "None",
+        "pinned": "false",
+        "author_id": "446964089885818891",
+        "attachments_count": 0,
+        "id": "788808148735098912",
+        "created_at": 1608136918.005,
+        "embeds": []
+    },
+    {
+        "webhook_id": "None",
+        "pinned": "false",
+        "embeds": [],
+        "author_id": "600436180864991233",
+        "content": "Canceled",
+        "attachments_count": 0,
+        "id": "788808150714417162",
+        "created_at": 1608136918.477
+    },
+    {
+        "pinned": "false",
+        "content": "v",
+        "webhook_id": "None",
+        "author_id": "446964089885818891",
+        "attachments_count": 0,
+        "embeds": [],
+        "created_at": 1608136918.689,
+        "id": "788808151604527124"
+    },
+    {
+        "created_at": 1608182521.833,
+        "content": "h!change red",
+        "webhook_id": "None",
+        "id": "788999425053163541",
+        "embeds": [],
+        "author_id": "570307633752571905",
+        "pinned": "false",
+        "attachments_count": 0
+    },
+    {
+        "content": "Canceled",
+        "author_id": "600436180864991233",
+        "pinned": "false",
+        "embeds": [],
+        "created_at": 1608182522.009,
+        "webhook_id": "None",
+        "id": "788999425790967838",
+        "attachments_count": 0
+    },
+    {
+        "webhook_id": "None",
+        "content": "h!change #dd2029",
+        "created_at": 1608182548.697,
+        "attachments_count": 0,
+        "author_id": "570307633752571905",
+        "embeds": [],
+        "pinned": "false",
+        "id": "788999537728815116"
+    },
+    {
+        "webhook_id": "None",
+        "pinned": "false",
+        "content": "Canceled",
+        "id": "788999538308284460",
+        "created_at": 1608182548.835,
+        "author_id": "600436180864991233",
+        "attachments_count": 0,
+        "embeds": []
+    },
+    {
+        "id": "788999569748787210",
+        "pinned": "false",
+        "created_at": 1608182556.331,
+        "embeds": [],
+        "webhook_id": "None",
+        "author_id": "570307633752571905",
+        "content": "h!change #dd2029",
+        "attachments_count": 0
+    },
+    {
+        "content": "",
+        "pinned": "false",
+        "embeds": [
+            {
+                "footer": {
+                    "text": "Changed"
+                },
+                "color": 14491689,
+                "type": "rich",
+                "description": "[Please Upvote Daily](https://discordbots.org/bot/600436180864991233/vote)",
+                "image": {
+                    "url": "https://dummyimage.com/150x50/dd2029/000000&text=dd2029",
+                    "height": 50,
+                    "width": 150,
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/Y5dYwQVBt_HYiyjZDg-BkpV7e7U3-kaZQQUOyvFdblo/https/dummyimage.com/150x50/dd2029/000000%26text%3Ddd2029"
+                }
+            }
+        ],
+        "webhook_id": "None",
+        "attachments_count": 0,
+        "created_at": 1608182556.442,
+        "author_id": "600436180864991233",
+        "id": "788999570214223872"
+    },
+    {
+        "content": "ye",
+        "pinned": "false",
+        "webhook_id": "None",
+        "attachments_count": 0,
+        "embeds": [],
+        "created_at": 1608182560.948,
+        "id": "788999589113757698",
+        "author_id": "570307633752571905"
+    },
+    {
+        "author_id": "579673965484834825",
+        "created_at": 1608244383.083,
+        "content": "h!change #eg4500",
+        "embeds": [],
+        "attachments_count": 0,
+        "pinned": "false",
+        "id": "789258889942138900",
+        "webhook_id": "None"
+    },
+    {
+        "pinned": "false",
+        "author_id": "600436180864991233",
+        "content": "Invalid input",
+        "created_at": 1608244383.365,
+        "webhook_id": "None",
+        "embeds": [],
+        "attachments_count": 0,
+        "id": "789258891123753030"
+    },
+    {
+        "author_id": "579673965484834825",
+        "embeds": [],
+        "attachments_count": 0,
+        "pinned": "false",
+        "id": "789258902784049243",
+        "content": "lmao",
+        "created_at": 1608244386.145,
+        "webhook_id": "None"
+    },
+    {
+        "content": "h!change #888888",
+        "webhook_id": "None",
+        "attachments_count": 0,
+        "id": "789258990466760724",
+        "created_at": 1608244407.05,
+        "pinned": "false",
+        "author_id": "579673965484834825",
+        "embeds": []
+    },
+    {
+        "pinned": "false",
+        "embeds": [],
+        "author_id": "600436180864991233",
+        "attachments_count": 0,
+        "content": "Canceled",
+        "created_at": 1608244407.271,
+        "id": "789258991392915546",
+        "webhook_id": "None"
+    },
+    {
+        "author_id": "579673965484834825",
+        "pinned": "false",
+        "webhook_id": "None",
+        "content": "h!change #444444",
+        "attachments_count": 0,
+        "embeds": [],
+        "id": "789259052784943114",
+        "created_at": 1608244421.908
+    },
+    {
+        "created_at": 1608244422.137,
+        "embeds": [
+            {
+                "footer": {
+                    "text": "Changed"
+                },
+                "image": {
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/hf1zZOz8y-iGz8-CrAHx8q6T9inM-NJ5KHZ88wpyWP0/https/dummyimage.com/150x50/444444/000000%26text%3D444444",
+                    "url": "https://dummyimage.com/150x50/444444/000000&text=444444",
+                    "height": 50,
+                    "width": 150
+                },
+                "color": 4473924,
+                "type": "rich",
+                "description": "[Please Upvote Daily](https://discordbots.org/bot/600436180864991233/vote)"
+            }
+        ],
+        "attachments_count": 0,
+        "webhook_id": "None",
+        "pinned": "false",
+        "content": "",
+        "author_id": "600436180864991233",
+        "id": "789259053746094131"
+    },
+    {
+        "webhook_id": "None",
+        "pinned": "false",
+        "content": "h!change #111111",
+        "author_id": "579673965484834825",
+        "id": "789259151397617674",
+        "attachments_count": 0,
+        "created_at": 1608244445.419,
+        "embeds": []
+    },
+    {
+        "content": "Canceled",
+        "webhook_id": "None",
+        "embeds": [],
+        "id": "789259152249061447",
+        "created_at": 1608244445.622,
+        "attachments_count": 0,
+        "pinned": "false",
+        "author_id": "600436180864991233"
+    },
+    {
+        "embeds": [],
+        "id": "789259208335818792",
+        "content": "h!change #000001",
+        "author_id": "579673965484834825",
+        "pinned": "false",
+        "attachments_count": 0,
+        "created_at": 1608244458.994,
+        "webhook_id": "None"
+    },
+    {
+        "author_id": "600436180864991233",
+        "webhook_id": "None",
+        "embeds": [
+            {
+                "description": "[Please Upvote Daily](https://discordbots.org/bot/600436180864991233/vote)",
+                "type": "rich",
+                "color": 1,
+                "image": {
+                    "url": "https://dummyimage.com/150x50/000001/000000&text=000001",
+                    "proxy_url": "https://images-ext-2.discordapp.net/external/9WhRi5VcR_L0aiHxD33KfocoDbrOaLtOlN2ukCeX_P4/https/dummyimage.com/150x50/000001/000000%26text%3D000001",
+                    "height": 50,
+                    "width": 150
+                },
+                "footer": {
+                    "text": "Changed"
+                }
+            }
+        ],
+        "pinned": "false",
+        "id": "789259209233268756",
+        "created_at": 1608244459.208,
+        "content": "",
+        "attachments_count": 0
+    },
+    {
+        "created_at": 1608244533.286,
+        "attachments_count": 0,
+        "pinned": "false",
+        "author_id": "579673965484834825",
+        "content": "h!change #298fca",
+        "webhook_id": "None",
+        "id": "789259519938789406",
+        "embeds": []
+    },
+    {
+        "id": "789259520782106644",
+        "embeds": [
+            {
+                "image": {
+                    "width": 150,
+                    "url": "https://dummyimage.com/150x50/298fca/000000&text=298fca",
+                    "height": 50,
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/crbAk5H2XnN5u0pKrNMipVrS2J9Mn-JV9D1HuOfBUHc/https/dummyimage.com/150x50/298fca/000000%26text%3D298fca"
+                },
+                "footer": {
+                    "text": "Changed"
+                },
+                "color": 2723786,
+                "type": "rich",
+                "description": "[Please Upvote Daily](https://discordbots.org/bot/600436180864991233/vote)"
+            }
+        ],
+        "attachments_count": 0,
+        "webhook_id": "None",
+        "pinned": "false",
+        "author_id": "600436180864991233",
+        "content": "",
+        "created_at": 1608244533.487
+    },
+    {
+        "id": "789536793312886834",
+        "attachments_count": 0,
+        "embeds": [],
+        "content": "h!change black",
+        "pinned": "false",
+        "webhook_id": "None",
+        "author_id": "570307633752571905",
+        "created_at": 1608310640.41
+    },
+    {
+        "pinned": "false",
+        "webhook_id": "None",
+        "created_at": 1608310640.646,
+        "content": "",
+        "id": "789536794302480394",
+        "attachments_count": 0,
+        "embeds": [
+            {
+                "color": 1,
+                "image": {
+                    "width": 150,
+                    "url": "https://dummyimage.com/150x50/000001/000000&text=000001",
+                    "height": 50,
+                    "proxy_url": "https://images-ext-2.discordapp.net/external/9WhRi5VcR_L0aiHxD33KfocoDbrOaLtOlN2ukCeX_P4/https/dummyimage.com/150x50/000001/000000%26text%3D000001"
+                },
+                "footer": {
+                    "text": "Changed"
+                },
+                "description": "[Please Upvote Daily](https://discordbots.org/bot/600436180864991233/vote)",
+                "type": "rich"
+            }
+        ],
+        "author_id": "600436180864991233"
+    },
+    {
+        "id": "789537442461777961",
+        "content": "",
+        "author_id": "600436180864991233",
+        "pinned": "false",
+        "webhook_id": "None",
+        "embeds": [
+            {
+                "description": "[Please Upvote Daily](https://discordbots.org/bot/600436180864991233/vote)",
+                "type": "rich",
+                "image": {
+                    "proxy_url": "https://images-ext-2.discordapp.net/external/9WhRi5VcR_L0aiHxD33KfocoDbrOaLtOlN2ukCeX_P4/https/dummyimage.com/150x50/000001/000000%26text%3D000001",
+                    "width": 150,
+                    "height": 50,
+                    "url": "https://dummyimage.com/150x50/000001/000000&text=000001"
+                },
+                "color": 1,
+                "footer": {
+                    "text": "Changed"
+                }
+            }
+        ],
+        "created_at": 1608310795.179,
+        "attachments_count": 0
+    },
+    {
+        "content": "h!change black",
+        "created_at": 1608337158.929,
+        "author_id": "570307633752571905",
+        "webhook_id": "None",
+        "attachments_count": 0,
+        "id": "789648020042940466",
+        "embeds": [],
+        "pinned": "false"
+    },
+    {
+        "created_at": 1608337159.035,
+        "pinned": "false",
+        "embeds": [
+            {
+                "footer": {
+                    "text": "Changed"
+                },
+                "type": "rich",
+                "color": 1,
+                "image": {
+                    "width": 150,
+                    "height": 50,
+                    "url": "https://dummyimage.com/150x50/000001/000000&text=000001",
+                    "proxy_url": "https://images-ext-2.discordapp.net/external/9WhRi5VcR_L0aiHxD33KfocoDbrOaLtOlN2ukCeX_P4/https/dummyimage.com/150x50/000001/000000%26text%3D000001"
+                },
+                "description": "[Please Upvote Daily](https://discordbots.org/bot/600436180864991233/vote)"
+            }
+        ],
+        "webhook_id": "None",
+        "content": "",
+        "attachments_count": 0,
+        "id": "789648020487536650",
+        "author_id": "600436180864991233"
+    },
+    {
+        "created_at": 1608465318.567,
+        "pinned": "false",
+        "content": "h!change #6699CC",
+        "author_id": "786145706721017887",
+        "embeds": [],
+        "webhook_id": "None",
+        "attachments_count": 0,
+        "id": "790185560525635584"
+    },
+    {
+        "webhook_id": "None",
+        "author_id": "600436180864991233",
+        "attachments_count": 0,
+        "embeds": [
+            {
+                "description": "[Please Upvote Daily](https://discordbots.org/bot/600436180864991233/vote)",
+                "image": {
+                    "proxy_url": "https://images-ext-2.discordapp.net/external/8_aQ2QzghnkAVensyPeKLitnsUHU-2S_KeWt1L68Im8/https/dummyimage.com/150x50/6699cc/000000%26text%3D6699cc",
+                    "height": 50,
+                    "width": 150,
+                    "url": "https://dummyimage.com/150x50/6699cc/000000&text=6699cc"
+                },
+                "color": 6724044,
+                "footer": {
+                    "text": "Changed"
+                },
+                "type": "rich"
+            }
+        ],
+        "created_at": 1608465318.681,
+        "id": "790185561004572692",
+        "content": "",
+        "pinned": "false"
+    },
+    {
+        "id": "790185901677871134",
+        "pinned": "false",
+        "created_at": 1608465399.904,
+        "embeds": [],
+        "content": "h!change #29465b",
+        "attachments_count": 0,
+        "webhook_id": "None",
+        "author_id": "786145706721017887"
+    },
+    {
+        "pinned": "false",
+        "content": "",
+        "created_at": 1608465400.021,
+        "webhook_id": "None",
+        "attachments_count": 0,
+        "embeds": [
+            {
+                "description": "[Please Upvote Daily](https://discordbots.org/bot/600436180864991233/vote)",
+                "image": {
+                    "url": "https://dummyimage.com/150x50/29465b/000000&text=29465b",
+                    "height": 50,
+                    "width": 150,
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/MN851GYknegDiCIQDNSDTATkIxJ-Ob1sBogof7a7hTc/https/dummyimage.com/150x50/29465b/000000%26text%3D29465b"
+                },
+                "color": 2704987,
+                "type": "rich",
+                "footer": {
+                    "text": "Changed"
+                }
+            }
+        ],
+        "id": "790185902168604702",
+        "author_id": "600436180864991233"
+    },
+    {
+        "pinned": "false",
+        "attachments_count": 0,
+        "webhook_id": "None",
+        "embeds": [],
+        "id": "790231673471238174",
+        "author_id": "579673965484834825",
+        "created_at": 1608476312.75,
+        "content": "h!change 880000"
+    },
+    {
+        "author_id": "600436180864991233",
+        "pinned": "false",
+        "id": "790231673958694932",
+        "created_at": 1608476312.866,
+        "embeds": [
+            {
+                "footer": {
+                    "text": "Changed"
+                },
+                "color": 8912896,
+                "description": "[Please Upvote Daily](https://discordbots.org/bot/600436180864991233/vote)",
+                "type": "rich",
+                "image": {
+                    "proxy_url": "https://images-ext-2.discordapp.net/external/NMn_7JiAxASw-AWfnViuPxEo1zKA-5wHM42o9MvuTw8/https/dummyimage.com/150x50/880000/000000%26text%3D880000",
+                    "width": 150,
+                    "url": "https://dummyimage.com/150x50/880000/000000&text=880000",
+                    "height": 50
+                }
+            }
+        ],
+        "webhook_id": "None",
+        "content": "",
+        "attachments_count": 0
+    },
+    {
+        "attachments_count": 0,
+        "id": "790961506140684308",
+        "content": "~>avatar <@!261848325945294858>",
+        "webhook_id": "None",
+        "author_id": "686338688774307840",
+        "created_at": 1608650318.418,
+        "pinned": "false",
+        "embeds": []
+    },
+    {
+        "webhook_id": "None",
+        "pinned": "false",
+        "id": "790961506639413278",
+        "embeds": [
+            {
+                "type": "rich",
+                "author": {
+                    "icon_url": "https://cdn.discordapp.com/avatars/261848325945294858/4126451e1531534c6a9f4346eb17261b.png",
+                    "name": "Avatar for tick",
+                    "proxy_icon_url": "https://images-ext-2.discordapp.net/external/xGeKLwAEOCKg11trxCqmq1UXZRK9H-rmT0ToCtCFuG4/https/cdn.discordapp.com/avatars/261848325945294858/4126451e1531534c6a9f4346eb17261b.png"
+                },
+                "image": {
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/SFnVh03zPX6tbozoA8Ycb8ndyojtD5IXV7wcOjo1q4c/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/261848325945294858/4126451e1531534c6a9f4346eb17261b.png",
+                    "height": 360,
+                    "width": 360,
+                    "url": "https://cdn.discordapp.com/avatars/261848325945294858/4126451e1531534c6a9f4346eb17261b.png?size=1024"
+                },
+                "footer": {
+                    "text": "Hopefully a very pretty one.",
+                    "icon_url": "https://cdn.discordapp.com/avatars/261848325945294858/4126451e1531534c6a9f4346eb17261b.png",
+                    "proxy_icon_url": "https://images-ext-2.discordapp.net/external/xGeKLwAEOCKg11trxCqmq1UXZRK9H-rmT0ToCtCFuG4/https/cdn.discordapp.com/avatars/261848325945294858/4126451e1531534c6a9f4346eb17261b.png"
+                },
+                "color": 2067276
+            }
+        ],
+        "content": "",
+        "attachments_count": 0,
+        "created_at": 1608650318.537,
+        "author_id": "213466096718708737"
+    },
+    {
+        "pinned": "false",
+        "content": "h!change FF869E",
+        "embeds": [],
+        "webhook_id": "None",
+        "author_id": "310590510513520640",
+        "created_at": 1608877768.253,
+        "attachments_count": 0,
+        "id": "791915499893030974"
+    },
+    {
+        "webhook_id": "None",
+        "created_at": 1608877768.381,
+        "content": "",
+        "attachments_count": 0,
+        "id": "791915500429901834",
+        "embeds": [
+            {
+                "description": "[Please Upvote Daily](https://discordbots.org/bot/600436180864991233/vote)",
+                "type": "rich",
+                "color": 16746142,
+                "footer": {
+                    "text": "Changed"
+                },
+                "image": {
+                    "url": "https://dummyimage.com/150x50/ff869e/000000&text=ff869e",
+                    "width": 150,
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/vHS_3AWH5QC7uyIlFYBYmFCCy95H6ZvJoX7HY0A0bfw/https/dummyimage.com/150x50/ff869e/000000%26text%3Dff869e",
+                    "height": 50
+                }
+            }
+        ],
+        "author_id": "600436180864991233",
+        "pinned": "false"
+    },
+    {
+        "id": "792148902764740608",
+        "pinned": "false",
+        "author_id": "786145706721017887",
+        "created_at": 1608933415.834,
+        "attachments_count": 0,
+        "webhook_id": "None",
+        "content": "Dick",
+        "embeds": []
+    },
+    {
+        "created_at": 1608959291.2,
+        "pinned": "false",
+        "author_id": "749461327877111899",
+        "content": "h!change 9b0606",
+        "webhook_id": "None",
+        "attachments_count": 0,
+        "id": "792257431916904488",
+        "embeds": []
+    },
+    {
+        "pinned": "false",
+        "id": "792257432503320586",
+        "embeds": [
+            {
+                "image": {
+                    "proxy_url": "https://images-ext-2.discordapp.net/external/KjjOfuRKyCXkJqAY3IGqmwPgRdrXVm-Sb_z4DTVokCE/https/dummyimage.com/150x50/9b0606/000000%26text%3D9b0606",
+                    "height": 50,
+                    "width": 150,
+                    "url": "https://dummyimage.com/150x50/9b0606/000000&text=9b0606"
+                },
+                "color": 10159622,
+                "description": "[Please Upvote Daily](https://discordbots.org/bot/600436180864991233/vote)",
+                "footer": {
+                    "text": "Changed"
+                },
+                "type": "rich"
+            }
+        ],
+        "webhook_id": "None",
+        "author_id": "600436180864991233",
+        "content": "",
+        "created_at": 1608959291.34,
+        "attachments_count": 0
+    },
+    {
+        "id": "792257453596606484",
+        "attachments_count": 0,
+        "embeds": [],
+        "pinned": "false",
+        "created_at": 1608959296.369,
+        "author_id": "749461327877111899",
+        "content": "Noice",
+        "webhook_id": "None"
+    },
+    {
+        "content": "Oh",
+        "author_id": "749461327877111899",
+        "embeds": [],
+        "id": "792257483359649822",
+        "webhook_id": "None",
+        "created_at": 1608959303.465,
+        "pinned": "false",
+        "attachments_count": 0
+    },
+    {
+        "id": "792257500661547018",
+        "attachments_count": 0,
+        "pinned": "false",
+        "content": "Okie nice",
+        "created_at": 1608959307.59,
+        "author_id": "749461327877111899",
+        "webhook_id": "None",
+        "embeds": []
+    },
+    {
+        "created_at": 1608959313.219,
+        "content": "I think I can\u2019t tell",
+        "pinned": "false",
+        "id": "792257524270235670",
+        "attachments_count": 0,
+        "embeds": [],
+        "author_id": "749461327877111899",
+        "webhook_id": "None"
+    },
+    {
+        "embeds": [],
+        "attachments_count": 0,
+        "pinned": "false",
+        "content": "Did it change?",
+        "id": "792257588456062986",
+        "created_at": 1608959328.522,
+        "author_id": "749461327877111899",
+        "webhook_id": "None"
+    },
+    {
+        "embeds": [],
+        "created_at": 1608959329.018,
+        "author_id": "610119576566628352",
+        "attachments_count": 0,
+        "pinned": "false",
+        "content": "h!change 9b0606",
+        "id": "792257590536175678",
+        "webhook_id": "None"
+    },
+    {
+        "created_at": 1608959329.163,
+        "id": "792257591144087552",
+        "pinned": "false",
+        "embeds": [
+            {
+                "type": "rich",
+                "color": 10159622,
+                "image": {
+                    "height": 50,
+                    "width": 150,
+                    "url": "https://dummyimage.com/150x50/9b0606/000000&text=9b0606",
+                    "proxy_url": "https://images-ext-2.discordapp.net/external/KjjOfuRKyCXkJqAY3IGqmwPgRdrXVm-Sb_z4DTVokCE/https/dummyimage.com/150x50/9b0606/000000%26text%3D9b0606"
+                },
+                "description": "[Please Upvote Daily](https://discordbots.org/bot/600436180864991233/vote)",
+                "footer": {
+                    "text": "Changed"
+                }
+            }
+        ],
+        "webhook_id": "None",
+        "content": "",
+        "author_id": "600436180864991233",
+        "attachments_count": 0
+    },
+    {
+        "content": "I have no clue",
+        "attachments_count": 0,
+        "author_id": "749461327877111899",
+        "pinned": "false",
+        "webhook_id": "None",
+        "id": "792257619674923010",
+        "created_at": 1608959335.965,
+        "embeds": []
+    },
+    {
+        "embeds": [],
+        "author_id": "749461327877111899",
+        "webhook_id": "None",
+        "created_at": 1608959340.248,
+        "pinned": "false",
+        "id": "792257637638864898",
+        "content": "Oh okie nice",
+        "attachments_count": 0
+    },
+    {
+        "webhook_id": "None",
+        "created_at": 1608959340.773,
+        "embeds": [],
+        "author_id": "610119576566628352",
+        "content": ";-;",
+        "id": "792257639840743444",
+        "attachments_count": 0,
+        "pinned": "false"
+    },
+    {
+        "embeds": [],
+        "created_at": 1609137549.758,
+        "webhook_id": "None",
+        "id": "793005102498709514",
+        "content": "h!change #6699CC",
+        "author_id": "694479096956190730",
+        "attachments_count": 0,
+        "pinned": "false"
+    },
+    {
+        "embeds": [
+            {
+                "color": 6724044,
+                "description": "[Please Upvote Daily](https://discordbots.org/bot/600436180864991233/vote)",
+                "image": {
+                    "height": 50,
+                    "proxy_url": "https://images-ext-2.discordapp.net/external/8_aQ2QzghnkAVensyPeKLitnsUHU-2S_KeWt1L68Im8/https/dummyimage.com/150x50/6699cc/000000%26text%3D6699cc",
+                    "width": 150,
+                    "url": "https://dummyimage.com/150x50/6699cc/000000&text=6699cc"
+                },
+                "footer": {
+                    "text": "Changed"
+                },
+                "type": "rich"
+            }
+        ],
+        "content": "",
+        "webhook_id": "None",
+        "pinned": "false",
+        "author_id": "600436180864991233",
+        "id": "793005103464054784",
+        "attachments_count": 0,
+        "created_at": 1609137549.988
+    },
+    {
+        "id": "793429952359956481",
+        "attachments_count": 0,
+        "created_at": 1609238841.858,
+        "pinned": "false",
+        "embeds": [],
+        "content": "HMMMM",
+        "author_id": "696042401524875277",
+        "webhook_id": "None"
+    },
+    {
+        "webhook_id": "None",
+        "created_at": 1609238875.704,
+        "pinned": "false",
+        "author_id": "696042401524875277",
+        "id": "793430094319976459",
+        "content": "h!change brown",
+        "attachments_count": 0,
+        "embeds": []
+    },
+    {
+        "author_id": "600436180864991233",
+        "embeds": [],
+        "created_at": 1609238875.869,
+        "id": "793430095011905567",
+        "attachments_count": 0,
+        "pinned": "false",
+        "content": "Canceled",
+        "webhook_id": "None"
+    },
+    {
+        "content": "h!change black",
+        "pinned": "false",
+        "webhook_id": "None",
+        "id": "793430200149868615",
+        "author_id": "696042401524875277",
+        "embeds": [],
+        "created_at": 1609238900.936,
+        "attachments_count": 0
+    },
+    {
+        "webhook_id": "None",
+        "embeds": [],
+        "id": "793430201131728906",
+        "pinned": "false",
+        "author_id": "600436180864991233",
+        "content": "Canceled",
+        "created_at": 1609238901.17,
+        "attachments_count": 0
+    },
+    {
+        "created_at": 1609238907.175,
+        "webhook_id": "None",
+        "id": "793430226318786571",
+        "attachments_count": 0,
+        "content": "Nono",
+        "pinned": "false",
+        "author_id": "696042401524875277",
+        "embeds": []
+    },
+    {
+        "webhook_id": "None",
+        "attachments_count": 0,
+        "content": "I want this color",
+        "created_at": 1609238911.395,
+        "embeds": [],
+        "id": "793430244019011584",
+        "pinned": "false",
+        "author_id": "696042401524875277"
+    },
+    {
+        "created_at": 1609238912.591,
+        "webhook_id": "None",
+        "pinned": "false",
+        "author_id": "696042401524875277",
+        "content": "\ud83e\uddcd\ud83c\udfff\u200d\u2642\ufe0f",
+        "id": "793430249034874890",
+        "attachments_count": 0,
+        "embeds": []
+    },
+    {
+        "attachments_count": 0,
+        "webhook_id": "None",
+        "created_at": 1609238916.242,
+        "pinned": "false",
+        "id": "793430264348016670",
+        "content": "or this color",
+        "embeds": [],
+        "author_id": "696042401524875277"
+    },
+    {
+        "id": "793430267640938526",
+        "content": "\ud83d\udca9",
+        "created_at": 1609238917.027,
+        "author_id": "696042401524875277",
+        "embeds": [],
+        "pinned": "false",
+        "webhook_id": "None",
+        "attachments_count": 0
+    },
+    {
+        "author_id": "694479096956190730",
+        "content": "bruh",
+        "attachments_count": 0,
+        "pinned": "false",
+        "id": "793430271088132116",
+        "created_at": 1609238917.849,
+        "embeds": [],
+        "webhook_id": "None"
+    },
+    {
+        "created_at": 1609238922.246,
+        "content": "kdkdkskd",
+        "webhook_id": "None",
+        "embeds": [],
+        "pinned": "false",
+        "id": "793430289531666464",
+        "attachments_count": 0,
+        "author_id": "696042401524875277"
+    },
+    {
+        "id": "793430358335029308",
+        "embeds": [],
+        "created_at": 1609238938.65,
+        "author_id": "696042401524875277",
+        "content": "uh",
+        "attachments_count": 0,
+        "pinned": "false",
+        "webhook_id": "None"
+    },
+    {
+        "pinned": "false",
+        "author_id": "696042401524875277",
+        "webhook_id": "None",
+        "attachments_count": 0,
+        "embeds": [],
+        "content": "ayo???",
+        "id": "793430372490805298",
+        "created_at": 1609238942.025
+    },
+    {
+        "author_id": "696042401524875277",
+        "id": "793430393944539157",
+        "pinned": "false",
+        "created_at": 1609238947.14,
+        "content": "you talkin bout chicken \ud83d\udc4d",
+        "embeds": [],
+        "webhook_id": "None",
+        "attachments_count": 0
+    },
+    {
+        "webhook_id": "None",
+        "pinned": "false",
+        "created_at": 1609238961.18,
+        "id": "793430452831649803",
+        "attachments_count": 0,
+        "content": "sir this is a mcdonalds drive thru",
+        "embeds": [],
+        "author_id": "694479096956190730"
+    },
+    {
+        "attachments_count": 0,
+        "content": "xd",
+        "author_id": "694479096956190730",
+        "webhook_id": "None",
+        "id": "793430490627571773",
+        "pinned": "false",
+        "created_at": 1609238970.191,
+        "embeds": []
+    },
+    {
+        "content": "o my bad thought it was burger king",
+        "embeds": [],
+        "webhook_id": "None",
+        "author_id": "696042401524875277",
+        "pinned": "false",
+        "attachments_count": 0,
+        "created_at": 1609238972.331,
+        "id": "793430499603382303"
+    },
+    {
+        "webhook_id": "None",
+        "attachments_count": 0,
+        "author_id": "694479096956190730",
+        "content": "lol",
+        "embeds": [],
+        "id": "793430530074738728",
+        "pinned": "false",
+        "created_at": 1609238979.596
+    },
+    {
+        "author_id": "749461327877111899",
+        "pinned": "false",
+        "webhook_id": "None",
+        "content": "h!change",
+        "id": "793722455944069201",
+        "created_at": 1609308580.147,
+        "attachments_count": 0,
+        "embeds": []
+    },
+    {
+        "embeds": [],
+        "author_id": "600436180864991233",
+        "created_at": 1609308580.297,
+        "id": "793722456572952588",
+        "attachments_count": 0,
+        "content": "Canceled",
+        "pinned": "false",
+        "webhook_id": "None"
+    },
+    {
+        "embeds": [],
+        "pinned": "false",
+        "attachments_count": 0,
+        "id": "793722486839312394",
+        "webhook_id": "None",
+        "created_at": 1609308587.513,
+        "content": "No",
+        "author_id": "749461327877111899"
+    },
+    {
+        "webhook_id": "None",
+        "attachments_count": 0,
+        "content": "h!change 9b0606",
+        "author_id": "749461327877111899",
+        "created_at": 1609308627.235,
+        "pinned": "false",
+        "id": "793722653445062676",
+        "embeds": []
+    },
+    {
+        "content": "",
+        "id": "793722653994778664",
+        "attachments_count": 0,
+        "author_id": "600436180864991233",
+        "webhook_id": "None",
+        "pinned": "false",
+        "embeds": [
+            {
+                "type": "rich",
+                "color": 10159622,
+                "footer": {
+                    "text": "Changed"
+                },
+                "image": {
+                    "proxy_url": "https://images-ext-2.discordapp.net/external/KjjOfuRKyCXkJqAY3IGqmwPgRdrXVm-Sb_z4DTVokCE/https/dummyimage.com/150x50/9b0606/000000%26text%3D9b0606",
+                    "url": "https://dummyimage.com/150x50/9b0606/000000&text=9b0606",
+                    "width": 150,
+                    "height": 50
+                },
+                "description": "[Please Upvote Daily](https://discordbots.org/bot/600436180864991233/vote)"
+            }
+        ],
+        "created_at": 1609308627.366
+    },
+    {
+        "pinned": "false",
+        "embeds": [],
+        "attachments_count": 0,
+        "id": "793722804418773013",
+        "content": "h!change 9b0606",
+        "author_id": "648194151510310917",
+        "created_at": 1609308663.23,
+        "webhook_id": "None"
+    },
+    {
+        "embeds": [
+            {
+                "description": "[Please Upvote Daily](https://discordbots.org/bot/600436180864991233/vote)",
+                "footer": {
+                    "text": "Changed"
+                },
+                "type": "rich",
+                "image": {
+                    "proxy_url": "https://images-ext-2.discordapp.net/external/KjjOfuRKyCXkJqAY3IGqmwPgRdrXVm-Sb_z4DTVokCE/https/dummyimage.com/150x50/9b0606/000000%26text%3D9b0606",
+                    "height": 50,
+                    "url": "https://dummyimage.com/150x50/9b0606/000000&text=9b0606",
+                    "width": 150
+                },
+                "color": 10159622
+            }
+        ],
+        "pinned": "false",
+        "id": "793722805186199572",
+        "webhook_id": "None",
+        "content": "",
+        "attachments_count": 0,
+        "author_id": "600436180864991233",
+        "created_at": 1609308663.413
+    },
+    {
+        "author_id": "648194151510310917",
+        "created_at": 1609308672.709,
+        "pinned": "false",
+        "content": "g",
+        "embeds": [],
+        "attachments_count": 0,
+        "webhook_id": "None",
+        "id": "793722844177235979"
+    },
+    {
+        "id": "793870072527585329",
+        "created_at": 1609343774.683,
+        "author_id": "696042401524875277",
+        "pinned": "false",
+        "embeds": [],
+        "webhook_id": "None",
+        "attachments_count": 0,
+        "content": "h!change aqua"
+    },
+    {
+        "created_at": 1609343774.888,
+        "id": "793870073386762270",
+        "attachments_count": 0,
+        "webhook_id": "None",
+        "author_id": "600436180864991233",
+        "pinned": "false",
+        "content": "Canceled",
+        "embeds": []
+    },
+    {
+        "pinned": "false",
+        "webhook_id": "None",
+        "created_at": 1609343796.151,
+        "content": "h!change neon",
+        "author_id": "696042401524875277",
+        "embeds": [],
+        "attachments_count": 0,
+        "id": "793870162570772510"
+    },
+    {
+        "pinned": "false",
+        "created_at": 1609343796.281,
+        "attachments_count": 0,
+        "webhook_id": "None",
+        "embeds": [],
+        "content": "Invalid input",
+        "author_id": "600436180864991233",
+        "id": "793870163116032080"
+    },
+    {
+        "pinned": "false",
+        "embeds": [],
+        "webhook_id": "None",
+        "id": "793870217012445215",
+        "attachments_count": 0,
+        "content": "h!change tan",
+        "created_at": 1609343809.131,
+        "author_id": "696042401524875277"
+    },
+    {
+        "content": "",
+        "webhook_id": "None",
+        "id": "793870217650241558",
+        "embeds": [
+            {
+                "type": "rich",
+                "image": {
+                    "height": 50,
+                    "width": 150,
+                    "url": "https://dummyimage.com/150x50/d2b48c/000000&text=d2b48c",
+                    "proxy_url": "https://images-ext-2.discordapp.net/external/dEUROzawNKKcB2xiiK8F3RPeDcx4xc7sm3g1NfKfrtc/https/dummyimage.com/150x50/d2b48c/000000%26text%3Dd2b48c"
+                },
+                "footer": {
+                    "text": "Changed"
+                },
+                "description": "[Please Upvote Daily](https://discordbots.org/bot/600436180864991233/vote)",
+                "color": 13808780
+            }
+        ],
+        "created_at": 1609343809.283,
+        "attachments_count": 0,
+        "pinned": "false",
+        "author_id": "600436180864991233"
+    },
+    {
+        "content": "h!change 9b0606",
+        "pinned": "false",
+        "embeds": [],
+        "attachments_count": 0,
+        "id": "793880513382842368",
+        "webhook_id": "None",
+        "created_at": 1609346263.977,
+        "author_id": "793875292417556501"
+    },
+    {
+        "pinned": "false",
+        "webhook_id": "None",
+        "created_at": 1609346264.055,
+        "embeds": [],
+        "content": "Canceled",
+        "id": "793880513710129213",
+        "author_id": "600436180864991233",
+        "attachments_count": 0
+    },
+    {
+        "embeds": [],
+        "webhook_id": "None",
+        "content": "h!change 9b0606",
+        "attachments_count": 0,
+        "pinned": "false",
+        "created_at": 1609346275.916,
+        "id": "793880563458899968",
+        "author_id": "793875292417556501"
+    },
+    {
+        "pinned": "false",
+        "attachments_count": 0,
+        "author_id": "600436180864991233",
+        "webhook_id": "None",
+        "content": "",
+        "embeds": [
+            {
+                "color": 10159622,
+                "footer": {
+                    "text": "Changed"
+                },
+                "type": "rich",
+                "image": {
+                    "proxy_url": "https://images-ext-2.discordapp.net/external/KjjOfuRKyCXkJqAY3IGqmwPgRdrXVm-Sb_z4DTVokCE/https/dummyimage.com/150x50/9b0606/000000%26text%3D9b0606",
+                    "height": 50,
+                    "width": 150,
+                    "url": "https://dummyimage.com/150x50/9b0606/000000&text=9b0606"
+                },
+                "description": "[Please Upvote Daily](https://discordbots.org/bot/600436180864991233/vote)"
+            }
+        ],
+        "created_at": 1609346276.068,
+        "id": "793880564095778897"
+    },
+    {
+        "id": "794506064472440892",
+        "author_id": "696042401524875277",
+        "embeds": [],
+        "webhook_id": "None",
+        "attachments_count": 0,
+        "pinned": "false",
+        "created_at": 1609484606.979,
+        "content": "h!change orange"
+    },
+    {
+        "attachments_count": 0,
+        "author_id": "600436180864991233",
+        "id": "794506064992796702",
+        "created_at": 1609484607.103,
+        "embeds": [
+            {
+                "type": "rich",
+                "description": "[Please Upvote Daily](https://discordbots.org/bot/600436180864991233/vote)",
+                "color": 16753920,
+                "image": {
+                    "proxy_url": "https://images-ext-2.discordapp.net/external/LdXYSDPKDauAwGSaIX7dr4LeapEBMYffFdfD2rgeLV8/https/dummyimage.com/150x50/ffa500/000000%26text%3Dffa500",
+                    "height": 50,
+                    "width": 150,
+                    "url": "https://dummyimage.com/150x50/ffa500/000000&text=ffa500"
+                },
+                "footer": {
+                    "text": "Changed"
+                }
+            }
+        ],
+        "content": "",
+        "webhook_id": "None",
+        "pinned": "false"
+    },
+    {
+        "created_at": 1609484613.877,
+        "content": "yes",
+        "id": "794506093404356618",
+        "author_id": "696042401524875277",
+        "pinned": "false",
+        "webhook_id": "None",
+        "embeds": [],
+        "attachments_count": 0
+    },
+    {
+        "attachments_count": 0,
+        "embeds": [],
+        "pinned": "false",
+        "author_id": "696042401524875277",
+        "created_at": 1609484615.073,
+        "content": "wow",
+        "id": "794506098421661766",
+        "webhook_id": "None"
+    },
+    {
+        "created_at": 1609484616.277,
+        "content": "amazing",
+        "webhook_id": "None",
+        "id": "794506103471472700",
+        "attachments_count": 0,
+        "pinned": "false",
+        "embeds": [],
+        "author_id": "696042401524875277"
+    },
+    {
+        "id": "794506064472440892",
+        "content": "h!change orange",
+        "webhook_id": "None",
+        "embeds": [],
+        "created_at": 1609488206.979,
+        "author_id": "696042401524875277",
+        "pinned": "false",
+        "attachments_count": 0
+    },
+    {
+        "author_id": "600436180864991233",
+        "id": "794506064992796702",
+        "content": "",
+        "attachments_count": 0,
+        "pinned": "false",
+        "created_at": 1609488207.103,
+        "embeds": [
+            {
+                "type": "rich",
+                "color": 16753920,
+                "image": {
+                    "width": 150,
+                    "proxy_url": "https://images-ext-2.discordapp.net/external/LdXYSDPKDauAwGSaIX7dr4LeapEBMYffFdfD2rgeLV8/https/dummyimage.com/150x50/ffa500/000000%26text%3Dffa500",
+                    "url": "https://dummyimage.com/150x50/ffa500/000000&text=ffa500",
+                    "height": 50
+                },
+                "description": "[Please Upvote Daily](https://discordbots.org/bot/600436180864991233/vote)",
+                "footer": {
+                    "text": "Changed"
+                }
+            }
+        ],
+        "webhook_id": "None"
+    },
+    {
+        "author_id": "696042401524875277",
+        "embeds": [],
+        "created_at": 1609488213.877,
+        "attachments_count": 0,
+        "pinned": "false",
+        "id": "794506093404356618",
+        "webhook_id": "None",
+        "content": "yes"
+    },
+    {
+        "pinned": "false",
+        "embeds": [],
+        "id": "794506098421661766",
+        "content": "wow",
+        "attachments_count": 0,
+        "webhook_id": "None",
+        "created_at": 1609488215.073,
+        "author_id": "696042401524875277"
+    },
+    {
+        "webhook_id": "None",
+        "content": "amazing",
+        "created_at": 1609488216.277,
+        "id": "794506103471472700",
+        "pinned": "false",
+        "author_id": "696042401524875277",
+        "attachments_count": 0,
+        "embeds": []
+    },
+    {
+        "id": "794932273845370891",
+        "author_id": "749461327877111899",
+        "created_at": 1609589823.212,
+        "embeds": [],
+        "content": "h!change f4aece",
+        "pinned": "false",
+        "attachments_count": 0,
+        "webhook_id": "None"
+    },
+    {
+        "author_id": "600436180864991233",
+        "id": "794932274805211186",
+        "pinned": "false",
+        "created_at": 1609589823.441,
+        "attachments_count": 0,
+        "content": "",
+        "embeds": [
+            {
+                "image": {
+                    "url": "https://dummyimage.com/150x50/f4aece/000000&text=f4aece",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/5_vagcGPSD60rfcB8KXpEE_-dDJzhCsJ5SrdQbMUiqo/https/dummyimage.com/150x50/f4aece/000000%26text%3Df4aece",
+                    "height": 50,
+                    "width": 150
+                },
+                "type": "rich",
+                "color": 16035534,
+                "description": "[Please Upvote Daily](https://discordbots.org/bot/600436180864991233/vote)",
+                "footer": {
+                    "text": "Changed"
+                }
+            }
+        ],
+        "webhook_id": "None"
+    },
+    {
+        "pinned": "false",
+        "embeds": [],
+        "attachments_count": 0,
+        "webhook_id": "None",
+        "created_at": 1609589830.537,
+        "content": "Noice",
+        "id": "794932304568647730",
+        "author_id": "749461327877111899"
+    },
+    {
+        "webhook_id": "None",
+        "pinned": "false",
+        "id": "794932328991817738",
+        "created_at": 1609589836.36,
+        "attachments_count": 0,
+        "embeds": [],
+        "content": "Cool",
+        "author_id": "749461327877111899"
+    }
+]
